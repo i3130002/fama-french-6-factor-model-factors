@@ -6,7 +6,7 @@
 # %%
 import pandas as pd
 # data = pd.read_excel(r'monthly_market_data - Copy.xlsx')
-data = pd.read_excel(r'monthly_market_data - Copy (2).xlsx')
+data = pd.read_excel(r'monthly_market_data - Copy (3).xlsx')
 
 # print(data)
 
@@ -77,7 +77,8 @@ def displayCompanyInfoHeader():
 def displayCompanyInfo(tickerKeys:list,months:list):
     displayCompanyInfoHeader()
     for tickerKey in tickerKeys:
-      for month in months:
+      sortedMonths = sorted(months)
+      for month in sortedMonths:
         company:CompanyInfo = findCompanyInfo(tickerKey,month)
         if company is None:
           continue
@@ -110,7 +111,7 @@ allMonths.sort()
 def exportCompanyListToExcel(excelFileName):
   rows = []
   for company in companyInfoDict.keys():
-    for month in companyInfoDict[company].keys():
+    for month in sorted(companyInfoDict[company].keys()):
       rows.append(companyInfoDict[company][month].convertToList())
 
   company_ = None
@@ -263,7 +264,7 @@ def average(dataList):
     return sum(data) / len(dataList)
 
 # print(companyInfoList)
-rollingAverageWindowSize = 12     #Can be change
+rollingAverageWindowSize = 6     #Can be change
 for tickerKey in companyTickerSet:
     # print("tickerKey",tickerKey)
     for endMonthIndex in range(rollingAverageWindowSize-1,len(allMonths)):
@@ -277,12 +278,6 @@ for tickerKey in companyTickerSet:
 # %%
 displayCompanyInfo(companyTickerSet[:3],allMonths[:3])
 
-# %% [markdown]
-# # Sample Export to Excel
-
-# %%
-# Example to excel function
-exportCompanyListToExcel("AfterRollingAverage")
 
 # %% [markdown]
 # # set size
@@ -334,6 +329,22 @@ print ([x for x in getCompaniesInMonth(allMonths[-2]) if x.momentum is not None 
 # %%
 
 
+def avgTriple(first, second, third):
+    avg = 0
+    count = 0
+    if first is not None:
+        count += 1
+        avg += first
+    if second is not None:
+        count += 1
+        avg += second
+    if third is not None:
+        count += 1
+        avg += third
+    if count != 0:
+        avg /= count
+    return avg
+
 MoMFactor = {}
 
 for index,month in enumerate(allMonths[:-1]):
@@ -357,7 +368,7 @@ for index,month in enumerate(allMonths[:-1]):
     
     # If all were filled, Add to momentomFactor
     if (BH_average and BL_average and SH_average and SL_average ):
-        MoMFactor[month]=(0.5 * (SH_average + BH_average) - 0.5 * (SL_average + BL_average))
+        MoMFactor[month]=avgTriple(SH_average, BH_average,None) - avgTriple(SL_average, BL_average,None)
 
 print(MoMFactor)
 
@@ -380,7 +391,7 @@ for companyTicker in companyTickerSet:
   # print(companyInfoDict[companyTicker][139712])
 
 for month in sorted(companyInfoDict[1].keys())[:10]:
-  print(companyInfoDict[9][month])
+  print(companyInfoDict[1][month])
 
 
 # %%
@@ -469,7 +480,7 @@ for month in allMonths:
 # %%
 
 for companyTicker in companyTickerSet[:10]:
-  print(companyInfoDict[companyTicker][139902].RMWSize)
+  print(companyInfoDict[companyTicker][139807].RMWSize)
 
 
 # %%
@@ -535,12 +546,9 @@ for month in allMonths[:-1]:
   BH_average = average(getNextMonthCompaniesHavingYeild(BH))
   BN_average = average(getNextMonthCompaniesHavingYeild(BN))
   BL_average = average(getNextMonthCompaniesHavingYeild(BL))
-  
-  if BL_average == None:
-    continue
-  
-  SMBBTMFactor[month] = (SH_average + SN_average + SL_average) / 3 - (BH_average + BN_average + BL_average) / 3 
-  HMLFactor[month] = (SH_average + BH_average) / 2 - (SL_average + BL_average) / 2 
+
+  SMBBTMFactor[month] = avgTriple(SH_average,SN_average,SL_average) - avgTriple(BH_average, BN_average, BL_average)
+  HMLFactor[month] = avgTriple(SH_average, BH_average,None)  - avgTriple(SL_average , BL_average,None)
 for month in list(HMLFactor.keys())[:10]:
   print(HMLFactor[month])
 
@@ -563,10 +571,8 @@ for month in allMonths[:-1]:
   BN_average = average(getNextMonthCompaniesHavingYeild(BN))
   BW_average = average(getNextMonthCompaniesHavingYeild(BW))
 
-  if SR_average == None:
-    continue
-  SMBRMWFactor[month] = (SR_average + SN_average + SW_average) / 3 - (BR_average + BN_average + BW_average) / 3 
-  RMWFactor[month] = (SR_average + BW_average) / 2 - (SW_average + BW_average) / 2 
+  SMBRMWFactor[month] = avgTriple(SR_average , SN_average, SW_average) - avgTriple(BR_average, BN_average, BW_average)
+  RMWFactor[month] = avgTriple(SR_average, BW_average,None) - avgTriple(SW_average, BW_average,None)
 for month in list(RMWFactor.keys())[:10]:
   print(RMWFactor[month])
 
@@ -589,10 +595,8 @@ for month in allMonths[:-1]:
   BN_average = average(getNextMonthCompaniesHavingYeild(BN))
   BC_average = average(getNextMonthCompaniesHavingYeild(BC))
 
-  if SA_average == None:
-    continue
-  SMBCMAFactor[month] = (SA_average + SN_average + SC_average) / 3 - (BA_average + BN_average + BC_average) / 3 
-  CMAFactor[month] = (SC_average + BC_average) / 2 - (SA_average + BA_average) / 2 
+  SMBCMAFactor[month] = avgTriple(SA_average, SN_average, SC_average) - avgTriple(BA_average, BN_average, BC_average)
+  CMAFactor[month] = avgTriple(SC_average, BC_average,None)  - avgTriple(SA_average, BA_average,None)
 for month in list(CMAFactor.keys())[:10]:
   print(CMAFactor[month])
 
@@ -601,6 +605,14 @@ for month in list(CMAFactor.keys())[:10]:
 SMBFactor = {}
 for month in SMBBTMFactor.keys():
   SMBFactor[month] = (SMBBTMFactor[month] + SMBCMAFactor[month] + SMBRMWFactor[month]) / 3
+
+
+# %% [markdown]
+# # Sample Export to Excel
+
+# %%
+# Example to excel function
+exportCompanyListToExcel("calculations")
 
 
 # %%
