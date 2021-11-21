@@ -1,0 +1,150 @@
+None privuse marketcap tickerKey:2511	 month:138608	 closeAdjust:306.273415	 currentYield:None	 numberOfOutstandingShares:None	 marketcap:None	 b2m:None	 rollingAverage:None	 momentum:None	 size:None
+
+None privuse marketcap tickerKey:2511	 month:139004	 closeAdjust:281.955124	 currentYield:None	 numberOfOutstandingShares:None	 marketcap:None	 b2m:None	 rollingAverage:None	 momentum:None	 size:None
+
+None privuse marketcap tickerKey:2551	 month:138502	 closeAdjust:22.141126906876828	 currentYield:None	 numberOfOutstandingShares:None	 marketcap:None	 b2m:None	 rollingAverage:None	 momentum:None	 size:None
+
+None privuse marketcap tickerKey:2551	 month:138708	 closeAdjust:83.16439779553711	 currentYield:None	 numberOfOutstandingShares:None	 marketcap:None	 b2m:None	 rollingAverage:None	 momentum:None	 size:None
+
+***	No market cap while having closed adjust for TickerKey:2583 Month:138804
+None privuse marketcap tickerKey:2583	 month:138901	 closeAdjust:44.172271	 currentYield:None	 numberOfOutstandingShares:None	 marketcap:None	 b2m:None	 rollingAverage:None	 momentum:None	 size:None
+
+None privuse marketcap tickerKey:2583	 month:138903	 closeAdjust:47.330218	 currentYield:None	 numberOfOutstandingShares:None	 marketcap:None	 b2m:None	 rollingAverage:None	 momentum:None	 size:None
+
+None privuse marketcap tickerKey:2583	 month:139011	 closeAdjust:26.316225	 currentYield:None	 numberOfOutstandingShares:None	 marketcap:None	 b2m:None	 rollingAverage:None	 momentum:None	 size:None
+
+None privuse marketcap tickerKey:2632	 month:138402	 closeAdjust:13266.46602	 currentYield:None	 numberOfOutstandingShares:None	 marketcap:None	 b2m:None	 rollingAverage:None	 momentum:None	 size:None
+
+None privuse marketcap tickerKey:2632	 month:138903	 closeAdjust:4071.2	 currentYield:None	 numberOfOutstandingShares:None	 marketcap:None	 b2m:None	 rollingAverage:None	 momentum:None	 size:None
+
+***	No market cap while having closed adjust for TickerKey:2728 Month:138404
+None privuse marketcap tickerKey:2728	 month:138902	 closeAdjust:678.0	 currentYield:None	 numberOfOutstandingShares:None	 marketcap:None	 b2m:None	 rollingAverage:None	 momentum:None	 size:None
+
+None privuse marketcap tickerKey:2728	 month:138907	 closeAdjust:1084.0	 currentYield:None	 numberOfOutstandingShares:None	 marketcap:None	 b2m:None	 rollingAverage:None	 momentum:None	 size:None
+
+None privuse marketcap tickerKey:2769	 month:138810	 closeAdjust:89.72566627923757	 currentYield:None	 numberOfOutstandingShares:None	 marketcap:None	 b2m:None	 rollingAverage:None	 momentum:None	 size:None
+
+None privuse marketcap tickerKey:2769	 month:138907	 closeAdjust:111.57811043544345	 currentYield:None	 numberOfOutstandingShares:None	 marketcap:None	 b2m:None	 rollingAverage:None	 momentum:None	 size:None
+
+***	No market cap while having closed adjust for TickerKey:2777 Month:138512
+None privuse marketcap tickerKey:2777	 month:138603	 closeAdjust:1400.5025929714352	 currentYield:None	 numberOfOutstandingShares:None	 marketcap:None	 b2m:None	 rollingAverage:None	 momentum:None	 size:None
+
+None privuse marketcap tickerKey:2777	 month:138606	 closeAdjust:1400.5025929714352	 currentYield:None	 numberOfOutstandingShares:None	 marketcap:None	 b2m:None	 rollingAverage:None	 momentum:None	 size:None
+
+None privuse marketcap tickerKey:2777	 month:138701	 closeAdjust:1979.9924828236535	 currentYield:None	 numberOfOutstandingShares:None	 marketcap:None	 b2m:None	 rollingAverage:None	 momentum:None	 size:None
+
+None privuse marketcap tickerKey:2777	 month:138706	 closeAdjust:1807.9005523373296	 currentYield:None	 numberOfOutstandingShares:None	 marketcap:None	 b2m:None	 rollingAverage:None	 momentum:None	 size:None
+
+None privuse marketcap tickerKey:2777	 month:138804	 closeAdjust:1326.838879159369	 currentYield:None	 numberOfOutstandingShares:None	 marketcap:None	 b2m:None	 rollingAverage:None	 momentum:None	 size:None
+
+None privuse marketcap tickerKey:2777	 month:138808	 closeAdjust:1399.2119089316984	 currentYield:None	 numberOfOutstandingShares:None	 marketcap:None	 b2m:None	 rollingAverage:None	 momentum:None	 size:None
+
+None privuse marketcap tickerKey:2777	 month:138812	 closeAdjust:1107.789842381786	 currentYield:None	 numberOfOutstandingShares:None	 marketcap:None	 b2m:None	 rollingAverage:None	 momentum:None	 size:None
+
+***	No market cap while having closed adjust for TickerKey:2785 Month:138308
+None privuse marketcap tickerKey:2785	 month:138409	 closeAdjust:139.330368	 currentYield:None	 numberOfOutstandingShares:None	 marketcap:None	 b2m:None	 rollingAverage:None	 momentum:None	 size:None
+
+None privuse marketcap tickerKey:2785	 month:138412	 closeAdjust:134.671688	 currentYield:None	 numberOfOutstandingShares:None	 marketcap:None	 b2m:None	 rollingAverage:None	 momentum:None	 size:None
+
+None privuse marketcap tickerKey:2785	 month:138506	 closeAdjust:156.24496	 currentYield:None	 numberOfOutstandingShares:None	 marketcap:None	 b2m:None	 rollingAverage:None	 momentum:None	 size:None
+
+None privuse marketcap tickerKey:2785	 month:138902	 closeAdjust:181.33016	 currentYield:None	 numberOfOutstandingShares:None	 marketcap:None	 b2m:None	 rollingAverage:None	 momentum:None	 size:None
+
+None privuse marketcap tickerKey:2785	 month:138910	 closeAdjust:173.159552	 currentYield:None	 numberOfOutstandingShares:None	 marketcap:None	 b2m:None	 rollingAverage:None	 momentum:None	 size:None
+
+None privuse marketcap tickerKey:2785	 month:139009	 closeAdjust:169.002576	 currentYield:None	 numberOfOutstandingShares:None	 marketcap:None	 b2m:None	 rollingAverage:None	 momentum:None	 size:None
+
+None privuse marketcap tickerKey:2817	 month:138305	 closeAdjust:143.7115	 currentYield:None	 numberOfOutstandingShares:None	 marketcap:None	 b2m:None	 rollingAverage:None	 momentum:None	 size:None
+
+None privuse marketcap tickerKey:2817	 month:138309	 closeAdjust:322.5849	 currentYield:None	 numberOfOutstandingShares:None	 marketcap:None	 b2m:None	 rollingAverage:None	 momentum:None	 size:None
+
+None privuse marketcap tickerKey:2817	 month:138404	 closeAdjust:390.64725	 currentYield:None	 numberOfOutstandingShares:None	 marketcap:None	 b2m:None	 rollingAverage:None	 momentum:None	 size:None
+
+None privuse marketcap tickerKey:2817	 month:138902	 closeAdjust:411.05860199999995	 currentYield:None	 numberOfOutstandingShares:None	 marketcap:None	 b2m:None	 rollingAverage:None	 momentum:None	 size:None
+
+None privuse marketcap tickerKey:2817	 month:138908	 closeAdjust:392.204194	 currentYield:None	 numberOfOutstandingShares:None	 marketcap:None	 b2m:None	 rollingAverage:None	 momentum:None	 size:None
+
+None privuse marketcap tickerKey:2817	 month:139002	 closeAdjust:432.35107999999997	 currentYield:None	 numberOfOutstandingShares:None	 marketcap:None	 b2m:None	 rollingAverage:None	 momentum:None	 size:None
+
+None privuse marketcap tickerKey:2823	 month:138410	 closeAdjust:251.0046075274009	 currentYield:None	 numberOfOutstandingShares:None	 marketcap:None	 b2m:None	 rollingAverage:None	 momentum:None	 size:None
+
+None privuse marketcap tickerKey:2823	 month:138501	 closeAdjust:201.125486800802	 currentYield:None	 numberOfOutstandingShares:None	 marketcap:None	 b2m:None	 rollingAverage:None	 momentum:None	 size:None
+
+None privuse marketcap tickerKey:2823	 month:138709	 closeAdjust:113.63590004245313	 currentYield:None	 numberOfOutstandingShares:None	 marketcap:None	 b2m:None	 rollingAverage:None	 momentum:None	 size:None
+
+None privuse marketcap tickerKey:2823	 month:138803	 closeAdjust:118.26178623887158	 currentYield:None	 numberOfOutstandingShares:None	 marketcap:None	 b2m:None	 rollingAverage:None	 momentum:None	 size:None
+
+None privuse marketcap tickerKey:2823	 month:138904	 closeAdjust:140.184464300159	 currentYield:None	 numberOfOutstandingShares:None	 marketcap:None	 b2m:None	 rollingAverage:None	 momentum:None	 size:None
+
+None privuse marketcap tickerKey:2823	 month:138911	 closeAdjust:160.66125456167603	 currentYield:None	 numberOfOutstandingShares:None	 marketcap:None	 b2m:None	 rollingAverage:None	 momentum:None	 size:None
+
+None privuse marketcap tickerKey:2823	 month:139008	 closeAdjust:165.84387567656879	 currentYield:None	 numberOfOutstandingShares:None	 marketcap:None	 b2m:None	 rollingAverage:None	 momentum:None	 size:None
+
+None privuse marketcap tickerKey:2903	 month:138803	 closeAdjust:1146.649449	 currentYield:None	 numberOfOutstandingShares:None	 marketcap:None	 b2m:None	 rollingAverage:None	 momentum:None	 size:None
+
+None privuse marketcap tickerKey:2903	 month:138808	 closeAdjust:808.3754250000001	 currentYield:None	 numberOfOutstandingShares:None	 marketcap:None	 b2m:None	 rollingAverage:None	 momentum:None	 size:None
+
+None privuse marketcap tickerKey:2903	 month:138811	 closeAdjust:801.742601	 currentYield:None	 numberOfOutstandingShares:None	 marketcap:None	 b2m:None	 rollingAverage:None	 momentum:None	 size:None
+
+None privuse marketcap tickerKey:2935	 month:138412	 closeAdjust:1462.0	 currentYield:None	 numberOfOutstandingShares:None	 marketcap:None	 b2m:None	 rollingAverage:None	 momentum:None	 size:None
+
+None privuse marketcap tickerKey:2935	 month:138803	 closeAdjust:2735.0	 currentYield:None	 numberOfOutstandingShares:None	 marketcap:None	 b2m:None	 rollingAverage:None	 momentum:None	 size:None
+
+None privuse marketcap tickerKey:2935	 month:138812	 closeAdjust:5304.0	 currentYield:None	 numberOfOutstandingShares:None	 marketcap:None	 b2m:None	 rollingAverage:None	 momentum:None	 size:None
+
+***	No market cap while having closed adjust for TickerKey:2956 Month:138509
+None privuse marketcap tickerKey:2956	 month:138601	 closeAdjust:99.7923255363781	 currentYield:None	 numberOfOutstandingShares:None	 marketcap:None	 b2m:None	 rollingAverage:None	 momentum:None	 size:None
+
+None privuse marketcap tickerKey:2956	 month:138604	 closeAdjust:74.31214003988669	 currentYield:None	 numberOfOutstandingShares:None	 marketcap:None	 b2m:None	 rollingAverage:None	 momentum:None	 size:None
+
+None privuse marketcap tickerKey:2956	 month:138607	 closeAdjust:107.79963331946314	 currentYield:None	 numberOfOutstandingShares:None	 marketcap:None	 b2m:None	 rollingAverage:None	 momentum:None	 size:None
+
+None privuse marketcap tickerKey:2956	 month:138704	 closeAdjust:41.63988163125278	 currentYield:None	 numberOfOutstandingShares:None	 marketcap:None	 b2m:None	 rollingAverage:None	 momentum:None	 size:None
+
+None privuse marketcap tickerKey:2956	 month:138904	 closeAdjust:207.007905519225	 currentYield:None	 numberOfOutstandingShares:None	 marketcap:None	 b2m:None	 rollingAverage:None	 momentum:None	 size:None
+
+None privuse marketcap tickerKey:2969	 month:138707	 closeAdjust:1023.6034644823409	 currentYield:None	 numberOfOutstandingShares:None	 marketcap:None	 b2m:None	 rollingAverage:None	 momentum:None	 size:None
+
+None privuse marketcap tickerKey:2969	 month:138709	 closeAdjust:1058.2180743923718	 currentYield:None	 numberOfOutstandingShares:None	 marketcap:None	 b2m:None	 rollingAverage:None	 momentum:None	 size:None
+
+None privuse marketcap tickerKey:2969	 month:138712	 closeAdjust:1055.2511078286548	 currentYield:None	 numberOfOutstandingShares:None	 marketcap:None	 b2m:None	 rollingAverage:None	 momentum:None	 size:None
+
+None privuse marketcap tickerKey:2969	 month:138802	 closeAdjust:1056.2400966832272	 currentYield:None	 numberOfOutstandingShares:None	 marketcap:None	 b2m:None	 rollingAverage:None	 momentum:None	 size:None
+
+None privuse marketcap tickerKey:2969	 month:138903	 closeAdjust:1269.861689270846	 currentYield:None	 numberOfOutstandingShares:None	 marketcap:None	 b2m:None	 rollingAverage:None	 momentum:None	 size:None
+
+None privuse marketcap tickerKey:2969	 month:138912	 closeAdjust:1376.6724855646555	 currentYield:None	 numberOfOutstandingShares:None	 marketcap:None	 b2m:None	 rollingAverage:None	 momentum:None	 size:None
+
+None privuse marketcap tickerKey:2969	 month:139004	 closeAdjust:1376.6724855646555	 currentYield:None	 numberOfOutstandingShares:None	 marketcap:None	 b2m:None	 rollingAverage:None	 momentum:None	 size:None
+
+None privuse marketcap tickerKey:3055	 month:138003	 closeAdjust:1899.9688561952705	 currentYield:None	 numberOfOutstandingShares:None	 marketcap:None	 b2m:None	 rollingAverage:None	 momentum:None	 size:None
+
+None privuse marketcap tickerKey:3055	 month:138012	 closeAdjust:2802.7241262217267	 currentYield:None	 numberOfOutstandingShares:None	 marketcap:None	 b2m:None	 rollingAverage:None	 momentum:None	 size:None
+
+None privuse marketcap tickerKey:3055	 month:138105	 closeAdjust:3229.219476227371	 currentYield:None	 numberOfOutstandingShares:None	 marketcap:None	 b2m:None	 rollingAverage:None	 momentum:None	 size:None
+
+None privuse marketcap tickerKey:3055	 month:138205	 closeAdjust:4438.050960845735	 currentYield:None	 numberOfOutstandingShares:None	 marketcap:None	 b2m:None	 rollingAverage:None	 momentum:None	 size:None
+
+None privuse marketcap tickerKey:3055	 month:138402	 closeAdjust:4445.307618531021	 currentYield:None	 numberOfOutstandingShares:None	 marketcap:None	 b2m:None	 rollingAverage:None	 momentum:None	 size:None
+
+None privuse marketcap tickerKey:3055	 month:138406	 closeAdjust:4562.975929179163	 currentYield:None	 numberOfOutstandingShares:None	 marketcap:None	 b2m:None	 rollingAverage:None	 momentum:None	 size:None
+
+None privuse marketcap tickerKey:3055	 month:138409	 closeAdjust:4643.38367119765	 currentYield:None	 numberOfOutstandingShares:None	 marketcap:None	 b2m:None	 rollingAverage:None	 momentum:None	 size:None
+
+***	No market cap while having closed adjust for TickerKey:3091 Month:138406
+None privuse marketcap tickerKey:3091	 month:138712	 closeAdjust:976.0532862779652	 currentYield:None	 numberOfOutstandingShares:None	 marketcap:None	 b2m:None	 rollingAverage:None	 momentum:None	 size:None
+
+None privuse marketcap tickerKey:3091	 month:138808	 closeAdjust:1177.7965836385683	 currentYield:None	 numberOfOutstandingShares:None	 marketcap:None	 b2m:None	 rollingAverage:None	 momentum:None	 size:None
+
+None privuse marketcap tickerKey:3091	 month:138912	 closeAdjust:851.1645783880681	 currentYield:None	 numberOfOutstandingShares:None	 marketcap:None	 b2m:None	 rollingAverage:None	 momentum:None	 size:None
+
+None privuse marketcap tickerKey:76527	 month:138412	 closeAdjust:1462.0	 currentYield:None	 numberOfOutstandingShares:None	 marketcap:None	 b2m:None	 rollingAverage:None	 momentum:None	 size:None
+
+None privuse marketcap tickerKey:76527	 month:138803	 closeAdjust:2735.0	 currentYield:None	 numberOfOutstandingShares:None	 marketcap:None	 b2m:None	 rollingAverage:None	 momentum:None	 size:None
+
+None privuse marketcap tickerKey:76527	 month:138812	 closeAdjust:5304.0	 currentYield:None	 numberOfOutstandingShares:None	 marketcap:None	 b2m:None	 rollingAverage:None	 momentum:None	 size:None
+
+None privuse marketcap tickerKey:90926	 month:138303	 closeAdjust:107.9498903550658	 currentYield:None	 numberOfOutstandingShares:None	 marketcap:None	 b2m:None	 rollingAverage:None	 momentum:None	 size:None
+
+None privuse marketcap tickerKey:90926	 month:138306	 closeAdjust:106.68116796796006	 currentYield:None	 numberOfOutstandingShares:None	 marketcap:None	 b2m:None	 rollingAverage:None	 momentum:None	 size:None
+
