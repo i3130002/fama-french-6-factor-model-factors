@@ -3,5 +3,8 @@
     "activityBar.background": "#07342E",
     "titleBar.activeBackground": "#0A4940",
     "titleBar.activeForeground": "#EEFDFB"
-  }
+  },
+  "cSpell.words": [
+    "coef"
+  ]
 }
